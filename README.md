@@ -52,7 +52,6 @@
    
    - **Fast USB polling (1000Hz) is enabled by default in `/boot/uboot.txt`.**
 
----
 ### Package Installation
 
 - By default **`setup.sh`** installs the following packages below. Once you've rebooted, there are additional packages to install.
@@ -65,7 +64,6 @@
 
    - Example: **`pacman -Sy MiSTer-Devel-Console —overwrite “*”`**
 
----
 ### How To Enable Wi-Fi
 
 In terminal type the following command `sudo nmtui` and select the preferred network.
