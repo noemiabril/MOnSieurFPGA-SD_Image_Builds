@@ -6,7 +6,7 @@
 
 ## Why Should I Use MOnSieurFPGA?
 
-- **MOnSieurFPGA** images give the end-user freedom to choose what **THEY** decide to do with the Linux ARM side of **THEIR** DE10-Nano. 
+- **MOnSieurFPGA** images give the end-user freedom to choose what **THEY** decide to do with the Linux ARM side of **THEIR** DE10-Nano.
 
 - Will **MOnSieurFPGA** images affect the MiSTerFPGA binaries or make the MiSTerFPGA framework unstable? **NO**. 
 
@@ -16,13 +16,13 @@
  
 - Here's a few examples why **YOU** might want to checkout **MOnSieurFPGA**!
 
-- The ability to **update** and **add** Linux drivers! Wi-Fi sucks? Not anymore! Free yourself from wired restrictions after initial setup.
+   - The ability to **update** and **add** Linux drivers! Wi-Fi sucks? Not anymore! Free yourself from wired restrictions after initial setup.
    
-- Don't want to wait **30 seconds** for your SNES 8GB compressed zip file to open? Rejoice! It's instantaneous! Were you wasting SD/Storage space and uncompressing your files? **NOT ANYMORE**!
+   - Don't want to wait **30 seconds** for your SNES 8GB compressed zip file to open? Rejoice! It's instantaneous! Were you wasting SD/Storage space and uncompressing your files? **NOT ANYMORE**!
 
-- Extend your vintage computer cores by using your favorite open-source tools on **MOnSieurFPGA** and the **SHARED FOLDERS**!
+   - Extend your vintage computer cores by using your favorite open-source tools on **MOnSieurFPGA** and the **SHARED FOLDERS**!
    
-- Develop for the MiSTerFPGA platform? Then **MOnSieurFPGA** images are for you. Anything that isn't taxing on the arm7h cpu is now at **YOUR** discretion. Having the ability to add userspace development tools and/or utilities for MiSTerFPGA without using additional devices is great. Maybe you want to make an MegaDrive game? Well, now you can use [**SGDK by Stephane**](https://github.com/Stephane-D/SGDK) and compile the rom on the device you're going to test it on! There's a romantic side about using the device every one's going to be playing on for your vintage software development!
+   - Develop for the MiSTerFPGA platform? Then **MOnSieurFPGA** images are for you. Anything that isn't taxing on the arm7h cpu is now at **YOUR** discretion. Having the ability to add userspace development tools and/or utilities for MiSTerFPGA without using additional devices is great. Maybe you want to make an MegaDrive game? Well, now you can use [**SGDK by Stephane**](https://github.com/Stephane-D/SGDK) and compile the rom on the device you're going to test it on! There's a romantic side about using the device every one's going to be playing on for your vintage software development!
 
 ## MOnSieurFPGA Installation
 
