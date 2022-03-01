@@ -2,7 +2,7 @@
 
 - Pre-built SD images of [**MOnSieurFPGA**](https://github.com/MOnSieurFPGA) for the DE10-Nano using [**MiSTerFPGA**](https://github.com/MiSTer-devel) userspace binaries and [**ArchLinux**](https://archlinux.org) on the armv7h cpu.
 
-- If you choose to compile from source, see the [**MOnSieurFPGA-Src_Image_Build**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Image_Build). For package source information see [**MOnSieurFPGA-Packages**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Packages).
+- If you choose to compile from source, see [**MOnSieurFPGA-Src_Image_Build**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Image_Build). For package source information see [**MOnSieurFPGA-Packages**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Packages). Source files for builds are taken from the [MiSTerArch](https://github.com/amstan/MiSTerArch) repo by amstan.
 
 ## Why Should I Use MOnSieurFPGA?
 
