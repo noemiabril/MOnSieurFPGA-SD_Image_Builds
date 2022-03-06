@@ -59,9 +59,9 @@
 ```rsync lockfile-progs exfat-utils  git go-ipfs networkmanager bluez bluez-utils sudo wget unzip bash cifs-utils ntfs-3g imlib2 freetype2 MiSTer-Devel-Bin MiSTer-Devel-Support MiSTer-Devel-Menu MiSTer-Linux-Addons```
 
   
-- When installing **MOnSieurFPGA** packages for the **first time**, use **`pacman -Sy PackageName —overwrite “*”`**. This will set up the correct paths in **`/media/fat`** for initial packages.
+- When installing **MOnSieurFPGA** packages for the **first time**, use **`pacman -Sy PackageName --overwrite “*”`**. This will set up the correct paths in **`/media/fat`** for initial packages.
 
-   - Example: **`pacman -Sy MiSTer-Devel-Console —overwrite “*”`**
+   - Example: **`pacman -Sy JTFPGA-MiSTer NeoGeoMVS-MiSTer PSX-MiSTer-Devel-Unstable MiSTer-Devel-Computer MiSTer-Devel-Console MiSTer-Devel-Arcade MiSTer-Devel-Cheats --overwrite “*”`**
 
 ### How To Enable Wi-Fi
 
