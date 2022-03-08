@@ -61,7 +61,7 @@
   
 - When installing **MOnSieurFPGA** packages for the **first time**, use **`pacman -Sy PackageName --overwrite “*”`**. This will set up the correct paths in **`/media/fat`** for initial packages.
 
-   - Example: **`pacman -Sy JTFPGA-MiSTer NeoGeoMVS-MiSTer PSX-MiSTer-Devel-Unstable MiSTer-Devel-Computer MiSTer-Devel-Console MiSTer-Devel-Arcade MiSTer-Devel-Cheats --overwrite “*”`**
+   - Example: **`pacman -Sy JTFPGA-MiSTer MOnSieur-NeoGeoMVS MiSTer-Devel-PSX-Unstable MiSTer-Devel-Computer MiSTer-Devel-Console MiSTer-Devel-Arcade MiSTer-Devel-Cheats --overwrite “*”`**
 
 ### How To Enable Wi-Fi
 
