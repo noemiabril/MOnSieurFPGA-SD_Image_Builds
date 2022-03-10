@@ -60,7 +60,7 @@
 - <b>Pre-Installed Packages:</b>
 ```rsync lockfile-progs exfat-utils  git go-ipfs networkmanager bluez bluez-utils sudo wget unzip bash cifs-utils ntfs-3g imlib2 freetype2 MiSTer-Devel-Bin MiSTer-Devel-Support MiSTer-Devel-Menu MiSTer-Linux-Addons```
 
---- See [**MOnSieurFPGA-Packages**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Packages) for the automated distrobution list. Package updates occur ever four hours.
+- See [**MOnSieurFPGA-Packages**](https://github.com/MOnSieurFPGA/MOnSieurFPGA-Packages) for the automated distrobution list. Package updates occur ever four hours.
   
 - When installing **MOnSieurFPGA** packages for the **first time**, use **`pacman -Sy PackageName --overwrite “*”`**. This will set up the correct paths in **`/media/fat`** for initial packages.
 
